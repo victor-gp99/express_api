@@ -1,0 +1,22 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "Fifth project with launchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-gp99/express_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-gp99/express_api/issues"
+  },
+  "homepage": "https://github.com/victor-gp99/express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
